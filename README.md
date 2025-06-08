@@ -11,10 +11,10 @@ A minimalist tap counter app for Android with clean UI and intuitive controls.
 ## Screenshots
 <div align=\
 center\>
-  <img src=\screenshots/main_screen.jpg\ width=\300\ alt=\Main
+  <img src=\screenshots/main_screen.jepg\ width=\300\ alt=\Main
 Counter
 Screen\>
-  <img src=\screenshots/reset_screen.jpg\ width=\300\ alt=\Reset
+  <img src=\screenshots/reset_screen.jepg\ width=\300\ alt=\Reset
 Functionality\>
 </div>
 
